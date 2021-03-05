@@ -73,6 +73,8 @@ def Sort(all_users):
     return all_users
 z=(Sort(all_users))
 print(z)
+print(k,'your rank is')
+print(z.index(u)+1)
 
 
 
